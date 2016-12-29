@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunMath", "FunMath\FunMath.csproj", "{CDD0E96D-5DF1-45B0-B0D4-74F6D3DF8838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElementaryArithmetics", "ElementaryArithmetics\ElementaryArithmetics.csproj", "{FF0C0BF6-08C7-4FA7-B215-F00122E297B5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2EC97116-4217-4466-88CC-FFF59709BCED}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDD0E96D-5DF1-45B0-B0D4-74F6D3DF8838}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{CDD0E96D-5DF1-45B0-B0D4-74F6D3DF8838}.Debug|ARM.ActiveCfg = Debug|ARM
+		{CDD0E96D-5DF1-45B0-B0D4-74F6D3DF8838}.Debug|ARM.Build.0 = Debug|ARM
+		{CDD0E96D-5DF1-45B0-B0D4-74F6D3DF8838}.Debug|ARM.Deploy.0 = Debug|ARM
+		{CDD0E96D-5DF1-45B0-B0D4-74F6D3DF8838}.Debug|x64.ActiveCfg = Debug|x64
+		{CDD0E96D-5DF1-45B0-B0D4-74F6D3DF8838}.Debug|x64.Build.0 = Debug|x64
+		{CDD0E96D-5DF1-45B0-B0D4-74F6D3DF8838}.Debug|x64.Deploy.0 = Debug|x64
+		{CDD0E96D-5DF1-45B0-B0D4-74F6D3DF8838}.Debug|x86.ActiveCfg = Debug|x86
+		{CDD0E96D-5DF1-45B0-B0D4-74F6D3DF8838}.Debug|x86.Build.0 = Debug|x86
+		{CDD0E96D-5DF1-45B0-B0D4-74F6D3DF8838}.Debug|x86.Deploy.0 = Debug|x86
+		{CDD0E96D-5DF1-45B0-B0D4-74F6D3DF8838}.Release|Any CPU.ActiveCfg = Release|x86
+		{CDD0E96D-5DF1-45B0-B0D4-74F6D3DF8838}.Release|ARM.ActiveCfg = Release|ARM
+		{CDD0E96D-5DF1-45B0-B0D4-74F6D3DF8838}.Release|ARM.Build.0 = Release|ARM
+		{CDD0E96D-5DF1-45B0-B0D4-74F6D3DF8838}.Release|ARM.Deploy.0 = Release|ARM
+		{CDD0E96D-5DF1-45B0-B0D4-74F6D3DF8838}.Release|x64.ActiveCfg = Release|x64
+		{CDD0E96D-5DF1-45B0-B0D4-74F6D3DF8838}.Release|x64.Build.0 = Release|x64
+		{CDD0E96D-5DF1-45B0-B0D4-74F6D3DF8838}.Release|x64.Deploy.0 = Release|x64
+		{CDD0E96D-5DF1-45B0-B0D4-74F6D3DF8838}.Release|x86.ActiveCfg = Release|x86
+		{CDD0E96D-5DF1-45B0-B0D4-74F6D3DF8838}.Release|x86.Build.0 = Release|x86
+		{CDD0E96D-5DF1-45B0-B0D4-74F6D3DF8838}.Release|x86.Deploy.0 = Release|x86
+		{FF0C0BF6-08C7-4FA7-B215-F00122E297B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF0C0BF6-08C7-4FA7-B215-F00122E297B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF0C0BF6-08C7-4FA7-B215-F00122E297B5}.Debug|ARM.ActiveCfg = Debug|ARM
+		{FF0C0BF6-08C7-4FA7-B215-F00122E297B5}.Debug|ARM.Build.0 = Debug|ARM
+		{FF0C0BF6-08C7-4FA7-B215-F00122E297B5}.Debug|x64.ActiveCfg = Debug|x64
+		{FF0C0BF6-08C7-4FA7-B215-F00122E297B5}.Debug|x64.Build.0 = Debug|x64
+		{FF0C0BF6-08C7-4FA7-B215-F00122E297B5}.Debug|x86.ActiveCfg = Debug|x86
+		{FF0C0BF6-08C7-4FA7-B215-F00122E297B5}.Debug|x86.Build.0 = Debug|x86
+		{FF0C0BF6-08C7-4FA7-B215-F00122E297B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF0C0BF6-08C7-4FA7-B215-F00122E297B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF0C0BF6-08C7-4FA7-B215-F00122E297B5}.Release|ARM.ActiveCfg = Release|ARM
+		{FF0C0BF6-08C7-4FA7-B215-F00122E297B5}.Release|ARM.Build.0 = Release|ARM
+		{FF0C0BF6-08C7-4FA7-B215-F00122E297B5}.Release|x64.ActiveCfg = Release|x64
+		{FF0C0BF6-08C7-4FA7-B215-F00122E297B5}.Release|x64.Build.0 = Release|x64
+		{FF0C0BF6-08C7-4FA7-B215-F00122E297B5}.Release|x86.ActiveCfg = Release|x86
+		{FF0C0BF6-08C7-4FA7-B215-F00122E297B5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

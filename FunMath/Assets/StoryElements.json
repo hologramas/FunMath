@@ -1,0 +1,107 @@
+{
+  "Persons": [
+    {
+      "Name": "Sofia",
+      "Genre": 2,
+      "Type": 0
+    },
+    {
+      "Name": "Andrew",
+      "Genre": 1,
+      "Type": 0
+    },
+    {
+      "Name": "Connor",
+      "Genre": 1,
+      "Type": 0
+    },
+    {
+      "Name": "Grace",
+      "Genre": 2,
+      "Type": 0
+    },
+    {
+      "Name": "Kim",
+      "Genre": 2,
+      "Type": 0
+    }
+  ],
+  "Animals": [
+    {
+      "Name": "dog",
+      "NamePlural": "dogs",
+      "Genre": 0,
+      "Type": 1
+    },
+    {
+      "Name": "cat",
+      "NamePlural": "cats",
+      "Genre": 0,
+      "Type": 1
+    },
+    {
+      "Name": "hippo",
+      "NamePlural": "hippos",
+      "Genre": 0,
+      "Type": 1
+    },
+    {
+      "Name": "tiger",
+      "NamePlural": "tigers",
+      "Genre": 0,
+      "Type": 1
+    }
+  ],
+  "Foods": [
+    {
+      "Name": "banana",
+      "NamePlural": "bananas",
+      "Genre": 0,
+      "Type": 2
+    },
+    {
+      "Name": "apple",
+      "NamePlural": "apples",
+      "Genre": 0,
+      "Type": 2
+    },
+    {
+      "Name": "chocolate",
+      "NamePlural": "chocolates",
+      "Genre": 0,
+      "Type": 2
+    },
+    {
+      "Name": "cookie",
+      "NamePlural": "cookies",
+      "Genre": 0,
+      "Type": 2
+    }
+  ],
+  "Things": [
+    {
+      "Name": "toy",
+      "NamePlural": "toys",
+      "Genre": 0,
+      "Type": 3
+    },
+    {
+      "Name": "game",
+      "NamePlural": "games",
+      "Genre": 0,
+      "Type": 3
+    },
+    {
+      "Name": "car",
+      "NamePlural": "cars",
+      "Genre": 0,
+      "Type": 3
+    },
+    {
+      "Name": "marble",
+      "NamePlural": "marbles",
+      "Genre": 0,
+      "Type": 3
+    }
+  ]
+}

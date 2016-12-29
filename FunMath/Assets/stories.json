@@ -1,0 +1,76 @@
+{
+  "StoryFormats" : [
+    {
+      "Version": 1,
+      "Type": 2,
+      "Operator": 0,
+      "DescriptionFormat": "#PA1# has $LO$ #TA1qcLO#. Then #PA1qg# buys $RO$ more. How many #TA1qcPL# does #PA1# has now?"
+    },
+    {
+      "Version": 1,
+      "Type": 2,
+      "Operator": 1,
+      "DescriptionFormat": "#PA1# has $LO$ #TA1qcLO#. Then #PA1qg# gives $RO$ of them to #PA2#. How many does #PA1# has left?"
+    },
+    {
+      "Version": 1,
+      "Type": 2,
+      "Operator": 2,
+      "DescriptionFormat": "#PA1# has $LO$ #AA1qcLO# that each drink $RO$ buckets of water. How many buckets does #PA1# need to have?"
+    },
+    {
+      "Version": 1,
+      "Type": 2,
+      "Operator": 3,
+      "DescriptionFormat": "#PA1# has $LO$ #FA1qcLO# and $RO$ hungry #AA1qcRO#. How many #FA1qcPL# can #PA1# give to each #AA1qcSI#?"
+    },
+    {
+      "Version": 1,
+      "Type": 1,
+      "Operator": 0,
+      "DescriptionFormat": "#PA1# has some #TA1qcPL#. Then #PA1qg# buys $RO$ more and now #PA1qg# has $TO$ of them. How many #TA1qcPL# did #PA1qg# had at the beginning?"
+    },
+    {
+      "Version": 1,
+      "Type": 1,
+      "Operator": 1,
+      "DescriptionFormat": "#PA1# has some #TA1qcPL#. Then #PA1qg# gives $RO$ of them to #PA2# and now #PA1# has $TO$ #TA1qcTO#. How many #TA1qcPL# did #PA1# had at the beginning?"
+    },
+    {
+      "Version": 1,
+      "Type": 1,
+      "Operator": 2,
+      "DescriptionFormat": "#PA1# has some #AA1qcPL#. Each #AA1qcSI# drinks $RO$ buckets of water. #PA1# needs $TO$ buckets for all of them. How many #AA1qcPL# does #PA1# have?"
+    },
+    {
+      "Version": 1,
+      "Type": 1,
+      "Operator": 3,
+      "DescriptionFormat": "In a party there are some #FA1qcPL#. $RO$ friends split the #FA1qcPL# in equal parts and each has $TO$ #FA1qcTO#. How many #FA1qcPL# were there at the beginning?"
+    },
+    {
+      "Version": 1,
+      "Type": 0,
+      "Operator": 0,
+      "DescriptionFormat": "#PA1# has $LO$ #TA1qcLO#. Then #PA1qg# buys some more and now #PA1qg# has $TO$ of them. How many #TA1qcPL# did #PA1qg# buy?"
+    },
+    {
+      "Version": 1,
+      "Type": 0,
+      "Operator": 1,
+      "DescriptionFormat": "#PA1# has $LO$ #TA1qcLO#. Then #PA1qg# gives some of them to #PA2# and now #PA1# has $TO$ #TA1qcTO#. How many #TA1qcPL# did #PA1# gave away?"
+    },
+    {
+      "Version": 1,
+      "Type": 0,
+      "Operator": 2,
+      "DescriptionFormat": "$LO$ friends get together. Each brings some #TA1qcPL# to play. All together they have $TO$ #TA1qcTO#. How many #TA1qcPL# did each friend bring?"
+    },
+    {
+      "Version": 1,
+      "Type": 0,
+      "Operator": 3,
+      "DescriptionFormat": "In a party there are $LO$ #FA1qcLO#, enough to give each guest $TO$ #FA1qcTO#. How many guests are at the party?"
+    }
+  ]
+}
