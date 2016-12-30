@@ -1,4 +1,8 @@
-﻿using System;
+﻿//
+// MIT License.
+//
+
+using System;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Input;
 
