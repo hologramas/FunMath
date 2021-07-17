@@ -1,12 +1,10 @@
 
-===============================
-Story format specification [v1]
-===============================
-A story specifies the problem type, the operation and the description of the story in JSON form.<br>
-The stories.json file provides some examples<br>
-<p>
+**Story format specification [v1]**
 
-The DescriptionFormat must be formed correctly according to the operation and the problem type and must use the following replace variables for the operands and total:<br>
+A story specifies the problem type, the operation and the description of the story in JSON form.  
+The stories.json file provides some examples  
+
+The DescriptionFormat must be formed correctly according to the operation and the problem type and must use the following replace variables for the operands and total:  
 $LO$ = Left operand<br>
 $RO$ = Right operand<br>
 $TO$ = Total<br>
